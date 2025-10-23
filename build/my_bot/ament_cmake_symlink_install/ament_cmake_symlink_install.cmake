@@ -354,3 +354,6 @@ ament_cmake_symlink_install_files("/home/rosdev/ros2_ws/src/my_bot" FILES "/home
 
 # install(FILES "/home/rosdev/ros2_ws/src/my_bot/package.xml" "DESTINATION" "share/my_bot")
 ament_cmake_symlink_install_files("/home/rosdev/ros2_ws/src/my_bot" FILES "/home/rosdev/ros2_ws/src/my_bot/package.xml" "DESTINATION" "share/my_bot")
+
+# install(DIRECTORY "launch" "DESTINATION" "share/my_bot/")
+ament_cmake_symlink_install_directory("/home/rosdev/ros2_ws/src/my_bot" DIRECTORY "launch" "DESTINATION" "share/my_bot/")

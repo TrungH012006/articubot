@@ -142,6 +142,8 @@
 
   <gazebo reference="chassis">
     <material>Gazebo/Black</material>
+    <mul1 value="000.1" />
+    <mul2 value="000.1" />
   </gazebo>
 
 </robot>

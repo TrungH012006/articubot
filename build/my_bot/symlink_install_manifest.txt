@@ -1,6 +1,10 @@
 /home/rosdev/ros2_ws/src/my_bot/install/my_bot/share/my_bot/config/empty.yaml
+/home/rosdev/ros2_ws/src/my_bot/install/my_bot/share/my_bot/description/gazebo_control.xacro
+/home/rosdev/ros2_ws/src/my_bot/install/my_bot/share/my_bot/description/inertial_macros.xacro
 /home/rosdev/ros2_ws/src/my_bot/install/my_bot/share/my_bot/description/robot.urdf.xacro
 /home/rosdev/ros2_ws/src/my_bot/install/my_bot/share/my_bot/description/robot_core.xacro
+/home/rosdev/ros2_ws/src/my_bot/install/my_bot/share/my_bot/launch/gazebo.launch.py
+/home/rosdev/ros2_ws/src/my_bot/install/my_bot/share/my_bot/launch/launch_sim.launch.py
 /home/rosdev/ros2_ws/src/my_bot/install/my_bot/share/my_bot/launch/rsp.launch.py
 /home/rosdev/ros2_ws/src/my_bot/install/my_bot/share/my_bot/worlds/empty.world
 /home/rosdev/ros2_ws/src/my_bot/install/my_bot/share/ament_index/resource_index/package_run_dependencies/my_bot
@@ -18,3 +22,6 @@
 /home/rosdev/ros2_ws/src/my_bot/install/my_bot/share/my_bot/cmake/my_botConfig.cmake
 /home/rosdev/ros2_ws/src/my_bot/install/my_bot/share/my_bot/cmake/my_botConfig-version.cmake
 /home/rosdev/ros2_ws/src/my_bot/install/my_bot/share/my_bot/package.xml
+/home/rosdev/ros2_ws/src/my_bot/install/my_bot/share/my_bot//launch/gazebo.launch.py
+/home/rosdev/ros2_ws/src/my_bot/install/my_bot/share/my_bot//launch/launch_sim.launch.py
+/home/rosdev/ros2_ws/src/my_bot/install/my_bot/share/my_bot//launch/rsp.launch.py
